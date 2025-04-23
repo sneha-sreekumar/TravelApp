@@ -53,7 +53,7 @@ class _AddTravelSpotPageState extends State<AddTravelSpotPage> {
           backgroundColor: Colors.blue[800],
           centerTitle: true,
           title: Text(
-            'Add Travel Spot',
+            'Add Travel',
             style: TextStyle(
               fontSize: 26,
               color: Colors.white,
