@@ -1,0 +1,1 @@
+ C:\\TRAVEL\ APP\\FrontEnd\\.dart_tool\\flutter_build\\dfc108d467e3883941c162720c22eb2c\\native_assets.yaml: 

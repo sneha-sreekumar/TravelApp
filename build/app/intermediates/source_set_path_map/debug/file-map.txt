@@ -1,0 +1,29 @@
+com.example.globetrails.app-debug-0 C:\TRAVEL APP\FrontEnd\android\app\src\debug\res
+com.example.globetrails.app-main-1 C:\TRAVEL APP\FrontEnd\android\app\src\main\res
+com.example.globetrails.app-pngs-2 C:\TRAVEL APP\FrontEnd\build\app\generated\res\pngs\debug
+com.example.globetrails.app-resValues-3 C:\TRAVEL APP\FrontEnd\build\app\generated\res\resValues\debug
+com.example.globetrails.app-packageDebugResources-4 C:\TRAVEL APP\FrontEnd\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.globetrails.app-packageDebugResources-5 C:\TRAVEL APP\FrontEnd\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.globetrails.app-merged_res-6 C:\TRAVEL APP\FrontEnd\build\app\intermediates\merged_res\debug
+com.example.globetrails.app-packaged_res-7 C:\TRAVEL APP\FrontEnd\build\file_picker\intermediates\packaged_res\debug
+com.example.globetrails.app-packaged_res-8 C:\TRAVEL APP\FrontEnd\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.globetrails.app-lifecycle-runtime-2.7.0-9 C:\Users\sneha\.gradle\caches\transforms-3\1177d5b957406b63102275ba97872c1f\transformed\lifecycle-runtime-2.7.0\res
+com.example.globetrails.app-jetified-startup-runtime-1.1.1-10 C:\Users\sneha\.gradle\caches\transforms-3\11e5856f816b9c1ab00d53faff14fc23\transformed\jetified-startup-runtime-1.1.1\res
+com.example.globetrails.app-fragment-1.7.1-11 C:\Users\sneha\.gradle\caches\transforms-3\166eb6e3c3aedb2dd6108492b5251a4e\transformed\fragment-1.7.1\res
+com.example.globetrails.app-lifecycle-livedata-core-2.7.0-12 C:\Users\sneha\.gradle\caches\transforms-3\20496ccad947e937944f7b8cf1e00c12\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.globetrails.app-jetified-core-ktx-1.13.1-13 C:\Users\sneha\.gradle\caches\transforms-3\209fc01324407623d7f2f5575363eff1\transformed\jetified-core-ktx-1.13.1\res
+com.example.globetrails.app-core-1.13.1-14 C:\Users\sneha\.gradle\caches\transforms-3\25cf3a390b9c71bf17593562629fb892\transformed\core-1.13.1\res
+com.example.globetrails.app-jetified-window-1.2.0-15 C:\Users\sneha\.gradle\caches\transforms-3\37f26d50dc9e8fd6d76af0909beadc16\transformed\jetified-window-1.2.0\res
+com.example.globetrails.app-jetified-activity-1.8.1-16 C:\Users\sneha\.gradle\caches\transforms-3\3f8c457b15ce4dc478340a4eaba30126\transformed\jetified-activity-1.8.1\res
+com.example.globetrails.app-lifecycle-viewmodel-2.7.0-17 C:\Users\sneha\.gradle\caches\transforms-3\690843268ef557dc7aa3001ef39a5946\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.globetrails.app-jetified-lifecycle-livedata-core-ktx-2.7.0-18 C:\Users\sneha\.gradle\caches\transforms-3\6d8a583958a202f4c7034d15d69bce7a\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.globetrails.app-core-runtime-2.2.0-19 C:\Users\sneha\.gradle\caches\transforms-3\768485bcb679d30fdcdb6c3c0986032b\transformed\core-runtime-2.2.0\res
+com.example.globetrails.app-jetified-tracing-1.2.0-20 C:\Users\sneha\.gradle\caches\transforms-3\7e841fa0e00638f43422a0870913654d\transformed\jetified-tracing-1.2.0\res
+com.example.globetrails.app-jetified-annotation-experimental-1.4.0-21 C:\Users\sneha\.gradle\caches\transforms-3\a031d87a7d01e890037f574b92486bc6\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.globetrails.app-jetified-window-java-1.2.0-22 C:\Users\sneha\.gradle\caches\transforms-3\b390190853825a78e6663fb5ec1987ed\transformed\jetified-window-java-1.2.0\res
+com.example.globetrails.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-23 C:\Users\sneha\.gradle\caches\transforms-3\c445a5b87abf0231a978453c8c8fe7c9\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.globetrails.app-lifecycle-livedata-2.7.0-24 C:\Users\sneha\.gradle\caches\transforms-3\d2c5e8e1685950042649d6715b966421\transformed\lifecycle-livedata-2.7.0\res
+com.example.globetrails.app-jetified-savedstate-1.2.1-25 C:\Users\sneha\.gradle\caches\transforms-3\d5317f18628b098357fcc3396c1e7523\transformed\jetified-savedstate-1.2.1\res
+com.example.globetrails.app-jetified-profileinstaller-1.3.1-26 C:\Users\sneha\.gradle\caches\transforms-3\d80e5e8165cedb84fd752f731db1ca39\transformed\jetified-profileinstaller-1.3.1\res
+com.example.globetrails.app-jetified-core-1.0.0-27 C:\Users\sneha\.gradle\caches\transforms-3\d96f22aed55f6fb3c50da780b7e5f747\transformed\jetified-core-1.0.0\res
+com.example.globetrails.app-jetified-lifecycle-process-2.7.0-28 C:\Users\sneha\.gradle\caches\transforms-3\e162af6e8ed161fd7461567f670d306f\transformed\jetified-lifecycle-process-2.7.0\res
